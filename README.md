@@ -1,4 +1,4 @@
-# Radio-STT-TTS-with-AI
+# FM Radio STT-TTS-with-AI
 將無線電 Radio 的語音轉文字 (STT: speech to text), 然後利用 AI 對話機器人回覆後, 再將其文字轉語音 (TSS: text to speec), 並且透過電路發送回無線電上.
 
 前言: ..
